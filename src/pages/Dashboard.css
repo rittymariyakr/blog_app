@@ -1,0 +1,11 @@
+.blog-card::-webkit-scrollbar{
+display: none;
+}
+
+.sidebar-link:hover{
+    color: purple;
+    font-size: 25px;
+    cursor: pointer;
+    font-weight:bolder;
+    
+}
